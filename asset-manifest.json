@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/joketeller/static/css/main.7df14284.css",
+    "main.js": "/joketeller/static/js/main.7d538e6e.js",
+    "static/js/787.9657ecc2.chunk.js": "/joketeller/static/js/787.9657ecc2.chunk.js",
+    "static/media/Virgula Vulgaris Bold.woff": "/joketeller/static/media/Virgula Vulgaris Bold.eb01c1c4e11fee22d1eb.woff",
+    "index.html": "/joketeller/index.html",
+    "main.7df14284.css.map": "/joketeller/static/css/main.7df14284.css.map",
+    "main.7d538e6e.js.map": "/joketeller/static/js/main.7d538e6e.js.map",
+    "787.9657ecc2.chunk.js.map": "/joketeller/static/js/787.9657ecc2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7df14284.css",
+    "static/js/main.7d538e6e.js"
+  ]
+}
